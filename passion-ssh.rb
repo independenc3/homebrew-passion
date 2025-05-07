@@ -12,8 +12,8 @@ class PassionSsh < Formula
 
   def caveats
     <<~EOS
-      To use passion-ssh in your shell, add the following to your ~/.zshrc:
-        source #{HOMEBREW_PREFIX}/bin/passion-ssh
+      To use pc alias in your shell, add the following to your ~/.zshrc:
+        alias pc='aws-vault exec passion-root -- zsh -i -c "source #{HOMEBREW_PREFIX}/bin/passion-ssh && passion-ssh"'
     EOS
   end
 
