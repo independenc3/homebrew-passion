@@ -2,11 +2,7 @@
 
 A Zsh function to quickly connect to Passion services via AWS ECS, distributed as a Homebrew formula.
 
-## Features
-
-- Interactive selection of environment and service
-- Secure connection using AWS Vault
-- Easy installation and usage via Homebrew
+![demo2](https://github.com/user-attachments/assets/42efe7f9-e8af-49b0-bcc1-72b205202b8f)
 
 ## Installation
 
