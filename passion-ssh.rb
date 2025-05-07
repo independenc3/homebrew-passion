@@ -3,7 +3,7 @@ class PassionSsh < Formula
   homepage "https://github.com/independenc3/passion-ssh"
   url "https://raw.githubusercontent.com/independenc3/passion-ssh/main/passion-ssh"
   version "1.0.0"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "af1c7adc977da54f40a291b1218eb3a20ad6c0dc13cec34c2b8b225d57912fc8"
   license "MIT"
 
   def install
