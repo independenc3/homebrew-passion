@@ -2,8 +2,8 @@ class PassionSsh < Formula
   desc "Zsh function to quickly connect to passion services"
   homepage "https://github.com/independenc3/passion-ssh"
   url "https://raw.githubusercontent.com/independenc3/passion-ssh/main/passion-ssh"
-  version "1.0.4"
-  sha256 "2a7855d8dda4b4f86060d8fc9fdb9853d0b00851ab1cf1cd3cf11382f48c6eda"
+  version "1.0.5"
+  sha256 "d4b6730f7b377f0b20969f81368c3a617d512359a7eba3620ca596b0b5e634a9"
   license "MIT"
 
   def install
